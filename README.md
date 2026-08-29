@@ -7,9 +7,9 @@ examination cheat sheet.
 
 - 215 recall cards (208 mathematical, 7 exam routes)
 - 5 last-thirty-minutes callouts and a 7-route Exam Lookup Atlas
-- 34 cross-course prerequisites, shown where they are first used
+- 35 cross-course prerequisites, shown where they are first used
 - Mathematics rendered at build time to accessible KaTeX HTML + MathML
 - Progress is stored only in your own browser; there is no account and no backend
 
 This repository contains the built site only. It is generated from a canonical Markdown
-cheat sheet with SHA-256 `c7cbd1da9d2cab7237c2555ca5c6a42dff2b7a1142bb76567db1fd515f125d6f`.
+cheat sheet with SHA-256 `d56263722bbd7d0036f9b8e2553da00dd09298ebae9d391f9abe99b3fc4f6809`.
