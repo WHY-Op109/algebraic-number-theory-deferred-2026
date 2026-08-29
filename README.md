@@ -12,4 +12,4 @@ examination cheat sheet.
 - Progress is stored only in your own browser; there is no account and no backend
 
 This repository contains the built site only. It is generated from a canonical Markdown
-cheat sheet with SHA-256 `cafa000283a2fd4d9173e4038e15c11adcfa3a3c0a3d4fe20753e558e0aa5d4d`.
+cheat sheet with SHA-256 `c7cbd1da9d2cab7237c2555ca5c6a42dff2b7a1142bb76567db1fd515f125d6f`.
