@@ -5,11 +5,12 @@ examination cheat sheet.
 
 **Site:** https://why-op109.github.io/algebraic-number-theory-deferred-2026/
 
-- 216 recall cards (209 mathematical, 7 exam routes)
-- 17 searchable formula callouts in 4 categories and a 7-route Exam Lookup Atlas
+- 265 recall cards derived from the live canonical sheet
+- 43 formulas in 6 categories, 8 definitions, and 12 exam methods
+- Formula memory tiers separate must-memorise cards from quick lookup
 - 36 cross-course prerequisites, shown where they are first used
 - Mathematics rendered at build time to accessible KaTeX HTML + MathML
 - Progress is stored only in your own browser; there is no account and no backend
 
 This repository contains the built site only. It is generated from a canonical Markdown
-cheat sheet with SHA-256 `95a4cdd237d8419198ae99845f3825eb7152ef814e146d6c3c7ed615fdf00be4`.
+cheat sheet with SHA-256 `9716736e949ac99d3a879e95558e55995352b035d2a3b3c1f3a84e9433e0a44b`.
